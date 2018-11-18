@@ -496,7 +496,7 @@ CSS:
     color: #ccf;
 }
 
-COLORS:
+/* COLORS: */
 
 .pagerfanta a,
 .pagerfanta span {
@@ -514,7 +514,7 @@ COLORS:
 
 .pagerfanta .disabled {
     border-color: #ccf;
-    color: #cf;
+    color: #ccf;
 }
 ```
 
